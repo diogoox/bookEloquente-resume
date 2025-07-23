@@ -19,3 +19,5 @@ console.log(pasaDeGrado(9))
 
 ///////////////
 
+console.log(null === undefined);
+console.log(null == undefined);
